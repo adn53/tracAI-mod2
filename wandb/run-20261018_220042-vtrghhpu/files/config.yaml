@@ -1,0 +1,60 @@
+_wandb:
+    value:
+        cli_version: 0.26.1
+        e:
+            3hr73gznmpc24tj5xum1bs3dmvt5wulb:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 7
+                    macModel: MacBookAir10,1
+                    memoryGb: 8
+                    name: Apple M1
+                    ramTotalBytes: "8589934592"
+                    swapTotalBytes: "4294967296"
+                codePath: model.py
+                codePathLocal: model.py
+                cpu_count: 8
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "245107195904"
+                        used: "102309556224"
+                email: adityananjappa11@gmail.com
+                executable: /Users/adi/Documents/vscode/trac-module2/.venv/bin/python
+                host: Adityas-MacBook-Air.local
+                memory:
+                    total: "8589934592"
+                os: macOS-27.0-arm64-arm-64bit
+                program: /Users/adi/Documents/vscode/trac-module2/model.py
+                python: CPython 3.9.6
+                root: /Users/adi/Documents/vscode/trac-module2
+                startedAt: "2026-10-19T03:00:42.664713Z"
+                writerId: 3hr73gznmpc24tj5xum1bs3dmvt5wulb
+        m: []
+        python_version: 3.9.6
+        t:
+            "1":
+                - 1
+                - 41
+            "2":
+                - 1
+                - 41
+            "3":
+                - 2
+                - 16
+            "4": 3.9.6
+            "5": 0.26.1
+            "12": 0.26.1
+            "13": darwin-arm64
+batch_size:
+    value: 64
+dropout_rate:
+    value: 0.2
+epochs:
+    value: 10
+hidden_layers:
+    value:
+        - 128
+        - 64
+learning_rate:
+    value: 0.01
