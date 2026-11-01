@@ -1,0 +1,37 @@
+{
+  "os":  "macOS-27.0.1-arm64-arm-64bit",
+  "python":  "CPython 3.9.6",
+  "startedAt":  "2026-11-01T16:32:06.433218Z",
+  "program":  "/Users/adi/Documents/GitHub/tracAI-mod2/train.py",
+  "codePath":  "train.py",
+  "codePathLocal":  "train.py",
+  "git":  {
+    "remote":  "https://github.com/adn53/tracAI-mod2.git",
+    "commit":  "12c07291ef4796ad57b392284c778cb31a575665"
+  },
+  "email":  "adityananjappa11@gmail.com",
+  "root":  "/Users/adi/Documents/GitHub/tracAI-mod2",
+  "host":  "Adityas-MacBook-Air.local",
+  "executable":  "/Users/adi/Documents/GitHub/tracAI-mod2/.venv/bin/python3",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "89769082880"
+    }
+  },
+  "memory":  {
+    "total":  "8589934592"
+  },
+  "apple":  {
+    "name":  "Apple M1",
+    "ecpuCores":  4,
+    "gpuCores":  7,
+    "memoryGb":  8,
+    "swapTotalBytes":  "4294967296",
+    "ramTotalBytes":  "8589934592",
+    "macModel":  "MacBookAir10,1"
+  },
+  "writerId":  "mjkocssltsav9ect0e0dxk6ho6ubj2ow"
+}
